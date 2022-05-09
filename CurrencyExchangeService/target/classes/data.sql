@@ -1,0 +1,16 @@
+insert into 
+currency_exchange 
+(ID,CURRENCY_FROM,CURRENCY_TO,CONVERSION_MULTIPLE,ENVIRONMENT)
+values(1001,'USD','INR',67.45,'dev');
+
+
+insert into 
+currency_exchange 
+(ID,CURRENCY_FROM,CURRENCY_TO,CONVERSION_MULTIPLE,ENVIRONMENT)
+values(1002,'EUR','INR',120.45,'dev');
+
+
+insert into 
+currency_exchange 
+(ID,CURRENCY_FROM,CURRENCY_TO,CONVERSION_MULTIPLE,ENVIRONMENT)
+values(1003,'AUD','INR',55.45,'dev');
